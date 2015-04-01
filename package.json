@@ -1,15 +1,14 @@
-  {
+{
   "name": "socks5_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "./bin/myserver",
-    "start": "node index.js"
-  },
   "keywords": [
     "socks5"
   ],
   "author": "luzhuang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
