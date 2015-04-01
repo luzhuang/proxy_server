@@ -7,8 +7,5 @@
     "socks5"
   ],
   "author": "luzhuang",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.12.3"
-  }
+  "license": "ISC"
 }
